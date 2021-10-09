@@ -1,5 +1,6 @@
 body{
    padding: 70px;
+   background: linear-gradient(#00ccff,#d400d4) ;
 }
 #num-input1 #num-input2 #result{
     margin-top: 2px;
