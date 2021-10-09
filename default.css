@@ -1,0 +1,16 @@
+body{
+   padding: 70px;
+}
+#num-input1 #num-input2 #result{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+p{
+    top: 50%;
+    left: 50%;
+}
+#information{
+    color: red;
+}
